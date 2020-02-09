@@ -1,4 +1,6 @@
 ﻿{
+    "omnisharp.autoStart": false,
+    "omnisharp.projectLoadTimeout": 600,
     "files.exclude":
     {
         "**/.DS_Store":true,
